@@ -14,15 +14,7 @@ greeting_f_string = f"My name is {name} {surname} and I'm {age} y.o."
 print(greeting.format(name="Maxim", surname="Kostenko", age=15))
 print(greeting_f_string)
 
-print("\n\n\n")
-
-print("\nThere is no good or evil — only power and those who are too weak to get it")
-
-print("\nЗдоров, пітон")
-
-print("print")
-
-print("there is only BALENCIAGA")
+print("Lesson 2")
 
 print("Hey Siri")
 
