@@ -4,11 +4,7 @@ name = "rusnia"
 
 home = "home"
 
-print("\n\n\n")
-
 print("{} just do it {}".format(hell, home))
-
-print("\n\n\n")
 
 
 print(f"east or west {home} is best {home} ")
